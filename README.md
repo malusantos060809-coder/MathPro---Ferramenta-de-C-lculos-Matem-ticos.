@@ -1,2 +1,2 @@
-# MathPro---Ferramenta-de-Calculos-Matemáticos.
+# MathPro-Ferramenta-de-Cálculos-Matemáticos.
 Maria Luíza Monteiro 
